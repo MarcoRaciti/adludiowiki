@@ -1,14 +1,9 @@
 ## Content
 
-- [DSP setup](http://MarcoRaciti.github.io/adludiowiki/dspsetup.html)
+- [DSP setup](http://MarcoRaciti.github.io/adludiowiki/dspsetup/)
 - Adops setup
 - Testing
 - Best practise
 - etc
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ``
