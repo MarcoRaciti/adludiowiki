@@ -1,6 +1,6 @@
 ## Content
 
-- [DSP setup](http://MarcoRaciti.github.io/adludiowiki/dspsetup.md)
+- [DSP setup](http://MarcoRaciti.github.io/adludiowiki/dspsetup.html)
 - Adops setup
 - Testing
 - Best practise
